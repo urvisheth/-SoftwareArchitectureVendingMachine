@@ -55,3 +55,8 @@ In this design,the following OO design patterns are included:
 	4. abstract factory pattern
 	5. state diagram/model
 	
+	
+**Diagram** folder consists of **different type of UML Diagrams To understand the project**
+**VM** folder consist of an eclipse java project made for implementation of Vending Machine using MDA-EFSM
+**project.exe** is runnable version of the above project which is a black consoled executable
+
