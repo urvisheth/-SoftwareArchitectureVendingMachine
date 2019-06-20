@@ -1,10 +1,12 @@
-#System Architecture for a Working Vending Machine
+---------------------------
+System Architecture for a Working Vending Machine
+---------------------------
 
-###Goal:
+**Goal:**
 The goal of this project is to design two different Vending Machine (VM) components using the Model-Driven Architecture (MDA) and then implement these Vending Machine components based on this design using JAVA.
 
-###Description of the Project:
-There are two Vending Machine components: VM-1 and VM-2.
+**Description of the Project:**
+There are two Vending Machine components: **VM-1 and VM-2**.
 	
 	VM-1 component supports the following operations:
 		create(int p); 			// starts a vending machine application, where p is an initial price of a drink
