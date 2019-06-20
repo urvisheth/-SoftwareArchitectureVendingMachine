@@ -1,9 +1,15 @@
----------------------------
+-
 System Architecture for a Working Vending Machine
----------------------------
+-
 
 **Goal:**
 The goal of this project is to design two different Vending Machine (VM) components using the Model-Driven Architecture (MDA) and then implement these Vending Machine components based on this design using JAVA.
+
+**Diagram** folder consists of **different type of UML Diagrams To understand the project**
+
+**VM** folder consist of an eclipse java project made for implementation of Vending Machine using MDA-EFSM
+
+**project.exe** is runnable version of the above project which is a black consoled executable
 
 **Description of the Project:**
 There are two Vending Machine components: **VM-1 and VM-2**.
@@ -56,7 +62,4 @@ In this design,the following OO design patterns are included:
 	5. state diagram/model
 	
 	
-**Diagram** folder consists of **different type of UML Diagrams To understand the project**
-**VM** folder consist of an eclipse java project made for implementation of Vending Machine using MDA-EFSM
-**project.exe** is runnable version of the above project which is a black consoled executable
 
